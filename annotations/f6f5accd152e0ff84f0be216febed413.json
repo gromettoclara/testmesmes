@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "annot2",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>annot2</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/129292328",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-05-29T16:14:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1780071297086",
+    "dcterms:modified" : "2026-05-29T16:14:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://gromettoclara.github.io/testmesmes/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1027,778,1400,862"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1026.9246,777.5h700.0754v0h700.0754v430.9623v430.9623h-700.0754h-700.0754v-430.9623z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aabfb9a4-08a7-4633-a4d5-b901091c2e5a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4533r/canvas/f2"
+    } ]
+  } ],
+  "@id" : "https://gromettoclara.github.io/testmesmes/annotations/f6f5accd152e0ff84f0be216febed413.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
