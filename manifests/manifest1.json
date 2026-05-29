@@ -75,6 +75,13 @@
         },
         "@type" : "oa:Annotation"
       } ],
+      "otherContent": [
+    {
+        "@id": "https://gromettoclara.github.io/testmesmes/annotations/dd6ee61e5a744e77598572707306c76a.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
       "thumbnail" : {
         "@id" : "https://gallica.bnf.fr/ark:/12148/bpt6k4533r/f1.thumbnail"
       },
