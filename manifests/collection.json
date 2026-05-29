@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://gromettoclara.github.io/testmesmes/manifests/manifest.json",
     "label" : "BnF"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gromettoclara.github.io/testmesmes/manifests/manifest1.json",
+    "label" : "BnF"
   } ]
 }
